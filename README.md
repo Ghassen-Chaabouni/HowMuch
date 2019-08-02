@@ -1,7 +1,7 @@
 # HowMuch
 Money classification app for the blinds.
 
-### For more informations watch this video.
+### For more information, watch this video.
 [![HowMuch](http://img.youtube.com/vi/AwdMcOLHmdc/0.jpg)](https://www.youtube.com/watch?v=AwdMcOLHmdc "Money classification app for the blinds")
 
 
